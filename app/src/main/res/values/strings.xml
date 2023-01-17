@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RaidfinderLite</string>
+    <string name="the_four_primarch">The Four Primarchs</string>
+    <string name="huanglong_amp_qilin_hl">Huanglong&amp;Qilin (Impossible)</string>
+    <string name="lvl_120_shiva">Lvl 120 Shiva</string>
+    <string name="lvl_120_europa">Lvl 120 Europa</string>
+    <string name="lvl_120_godsworn_alexiel">Lvl 120 Godsworn Alexiel</string>
+    <string name="lvl_120_grimnir">Lvl 120 Grimnir</string>
+    <string name="lvl_120_metatron">Lvl 120 Metatron</string>
+    <string name="lvl_120_avatar">Lvl 120 Avatar</string>
+    <string name="lvl_120_atum">Lvl 120 Atum</string>
+    <string name="lvl_120_tefnut">Lvl 120 Tefnut</string>
+    <string name="lvl_120_bennu">Lvl 120 Bennu</string>
+    <string name="lvl_120_ra">Lvl 120 Ra</string>
+    <string name="lvl_120_horus">Lvl 120 Horus</string>
+    <string name="lvl_120_osiris">Lvl 120 Osiris</string>
+    <string name="lvl_120_prometheus">Lvl 120 Prometheus</string>
+    <string name="lvl_120_ca_ong">Lvl 120 Ca Ong</string>
+    <string name="lvl_120_gilgamesh">Lvl 120 Gilgamesh</string>
+    <string name="lvl_120_morrigna">Lvl 120 Morrigna</string>
+    <string name="lvl_120_hector">Lvl 120 Hector</string>
+    <string name="lvl_120_anubis">Lvl 120 Anubis</string>
+    <string name="lvl_200_wilnas">Lvl 200 Wilnas</string>
+    <string name="lvl_200_wamdus">Lvl 200 Wamdus</string>
+    <string name="lvl_200_galleon">Lvl 200 Galleon</string>
+    <string name="lvl_200_ewiyar">Lvl 200 Ewiyar</string>
+    <string name="lvl_200_lu_woh">Lvl 200 Lu Woh</string>
+    <string name="lvl_200_fediel">Lvl 200 Fediel</string>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/raids_four_primarch"
+        android:title="@string/the_four_primarch"
+        android:tooltipText="四大天司ＨＬ"/>
+    <item
+        android:id="@+id/raids_huanglong_qilin"
+        android:title="@string/huanglong_amp_qilin_hl"
+        android:tooltipText="黄龍・黒麒麟HL"/>
+    <item
+        android:id="@+id/raids_shiva"
+        android:title="@string/lvl_120_shiva"
+        android:tooltipText="Lv120 シヴァ"/>
+    <item
+        android:id="@+id/raids_europa"
+        android:title="@string/lvl_120_europa"
+        android:tooltipText="Lv120 エウロペ"/>
+    <item
+        android:id="@+id/raids_alexiel"
+        android:title="@string/lvl_120_godsworn_alexiel"
+        android:tooltipText="Lv120 ゴッドガード・ブローディア"/>
+    <item
+        android:id="@+id/raids_grimnir"
+        android:title="@string/lvl_120_grimnir"
+        android:tooltipText="Lv120 グリームニル"/>
+    <item
+        android:id="@+id/raids_metatron"
+        android:title="@string/lvl_120_metatron"
+        android:tooltipText="Lv120 メタトロン"/>
+    <item
+        android:id="@+id/raids_avatar"
+        android:title="@string/lvl_120_avatar"
+        android:tooltipText="Lv120 アバター"/>
+    <item
+        android:id="@+id/raids_atum"
+        android:title="@string/lvl_120_atum"
+        android:tooltipText="Lv120 アトゥム"/>
+    <item
+        android:id="@+id/raids_tefnut"
+        android:title="@string/lvl_120_tefnut"
+        android:tooltipText="Lv120 テフヌト"/>
+    <item
+        android:id="@+id/raids_bennu"
+        android:title="@string/lvl_120_bennu"
+        android:tooltipText="Lv120 ベンヌ"/>
+    <item
+        android:id="@+id/raids_ra"
+        android:title="@string/lvl_120_ra"
+        android:tooltipText="Lv120 ラー"/>
+    <item
+        android:id="@+id/raids_horus"
+        android:title="@string/lvl_120_horus"
+        android:tooltipText="Lv120 ホルス"/>
+    <item
+        android:id="@+id/raids_osiris"
+        android:title="@string/lvl_120_osiris"
+        android:tooltipText="Lv120 オシリス"/>
+    <item
+        android:id="@+id/raids_prometheus"
+        android:title="@string/lvl_120_prometheus"
+        android:tooltipText="Lv120 プロメテウス"/>
+    <item
+        android:id="@+id/raids_caong"
+        android:title="@string/lvl_120_ca_ong"
+        android:tooltipText="Lv120 カー・オン"/>
+    <item
+        android:id="@+id/raids_gilgamesh"
+        android:title="@string/lvl_120_gilgamesh"
+        android:tooltipText="Lv120 ギルガメッシュ"/>
+    <item
+        android:id="@+id/raids_morrigna"
+        android:title="@string/lvl_120_morrigna"
+        android:tooltipText="Lv120 バイヴカハ"/>
+    <item
+        android:id="@+id/raids_hector"
+        android:title="@string/lvl_120_hector"
+        android:tooltipText="Lv120 ヘクトル"/>
+    <item
+        android:id="@+id/raids_anubis"
+        android:title="@string/lvl_120_anubis"
+        android:tooltipText="Lv120 アヌビス"/>
+    <item
+        android:id="@+id/raids_wilnas"
+        android:title="@string/lvl_200_wilnas"
+        android:tooltipText="Lv200 ウィルナス"/>
+    <item
+        android:id="@+id/raids_wamdus"
+        android:title="@string/lvl_200_wamdus"
+        android:tooltipText="Lv200 ワムデュス"/>
+    <item
+        android:id="@+id/raids_galleon"
+        android:title="@string/lvl_200_galleon"
+        android:tooltipText="Lv200 ガレヲン"/>
+    <item
+        android:id="@+id/raids_ewiyar"
+        android:title="@string/lvl_200_ewiyar"
+        android:tooltipText="Lv200 イーウィヤ"/>
+    <item
+        android:id="@+id/raids_lu_woh"
+        android:title="@string/lvl_200_lu_woh"
+        android:tooltipText="Lv200 ル・オー"/>
+    <item
+        android:id="@+id/raids_fediel"
+        android:title="@string/lvl_200_fediel"
+        android:tooltipText="Lv200 フェディエル"/>
+</menu>

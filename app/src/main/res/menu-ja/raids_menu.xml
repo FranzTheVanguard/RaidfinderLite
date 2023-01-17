@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/raids_four_primarch"
+        android:title="@string/the_four_primarch"
+        android:tooltipText="The Four Primarch"/>
+    <item
+        android:id="@+id/raids_huanglong_qilin"
+        android:title="@string/huanglong_amp_qilin_hl"
+        android:tooltipText="Huanglong&amp;Qilin (Impossible)"/>
+    <item
+        android:id="@+id/raids_shiva"
+        android:title="@string/lvl_120_shiva"
+        android:tooltipText="Lvl 120 Shiva"/>
+    <item
+        android:id="@+id/raids_europa"
+        android:title="@string/lvl_120_europa"
+        android:tooltipText="Lvl 120 Europa"/>
+    <item
+        android:id="@+id/raids_alexiel"
+        android:title="@string/lvl_120_godsworn_alexiel"
+        android:tooltipText="Lvl 120 Godsworn Alexiel"/>
+    <item
+        android:id="@+id/raids_grimnir"
+        android:title="@string/lvl_120_grimnir"
+        android:tooltipText="Lvl 120 Grimnir"/>
+    <item
+        android:id="@+id/raids_metatron"
+        android:title="@string/lvl_120_metatron"
+        android:tooltipText="Lvl 120 Metatron"/>
+    <item
+        android:id="@+id/raids_avatar"
+        android:title="@string/lvl_120_avatar"
+        android:tooltipText="Lvl 120 Avatar"/>
+    <item
+        android:id="@+id/raids_atum"
+        android:title="@string/lvl_120_atum"
+        android:tooltipText="Lvl 120 Atum"/>
+    <item
+        android:id="@+id/raids_tefnut"
+        android:title="@string/lvl_120_tefnut"
+        android:tooltipText="Lvl 120 Tefnut"/>
+    <item
+        android:id="@+id/raids_bennu"
+        android:title="@string/lvl_120_bennu"
+        android:tooltipText="Lvl 120 Bennu"/>
+    <item
+        android:id="@+id/raids_ra"
+        android:title="@string/lvl_120_ra"
+        android:tooltipText="Lvl 120 Ra"/>
+    <item
+        android:id="@+id/raids_horus"
+        android:title="@string/lvl_120_horus"
+        android:tooltipText="Lvl 120 Horus"/>
+    <item
+        android:id="@+id/raids_osiris"
+        android:title="@string/lvl_120_osiris"
+        android:tooltipText="Lvl 120 Osiris"/>
+    <item
+        android:id="@+id/raids_prometheus"
+        android:title="@string/lvl_120_prometheus"
+        android:tooltipText="Lvl 120 Prometheus"/>
+    <item
+        android:id="@+id/raids_caong"
+        android:title="@string/lvl_120_ca_ong"
+        android:tooltipText="Lvl 120 Ca Ong"/>
+    <item
+        android:id="@+id/raids_gilgamesh"
+        android:title="@string/lvl_120_gilgamesh"
+        android:tooltipText="Lvl 120 Gilgamesh"/>
+    <item
+        android:id="@+id/raids_morrigna"
+        android:title="@string/lvl_120_morrigna"
+        android:tooltipText="Lvl 120 Morrigna"/>
+    <item
+        android:id="@+id/raids_hector"
+        android:title="@string/lvl_120_hector"
+        android:tooltipText="Lvl 120 Hector"/>
+    <item
+        android:id="@+id/raids_anubis"
+        android:title="@string/lvl_120_anubis"
+        android:tooltipText="Lvl 120 Anubis"/>
+    <item
+        android:id="@+id/raids_wilnas"
+        android:title="@string/lvl_200_wilnas"
+        android:tooltipText="Lvl 200 Wilnas"/>
+    <item
+        android:id="@+id/raids_wamdus"
+        android:title="@string/lvl_200_wamdus"
+        android:tooltipText="Lvl 200 Wamdus"/>
+    <item
+        android:id="@+id/raids_galleon"
+        android:title="@string/lvl_200_galleon"
+        android:tooltipText="Lvl 200 Galleon"/>
+    <item
+        android:id="@+id/raids_ewiyar"
+        android:title="@string/lvl_200_ewiyar"
+        android:tooltipText="Lvl 200 Ewiyar"/>
+    <item
+        android:id="@+id/raids_lu_woh"
+        android:title="@string/lvl_200_lu_woh"
+        android:tooltipText="Lvl 200 Lu Woh"/>
+    <item
+        android:id="@+id/raids_fediel"
+        android:title="@string/lvl_200_fediel"
+        android:tooltipText="Lvl 200 Fediel"/>
+</menu>

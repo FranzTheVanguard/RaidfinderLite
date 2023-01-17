@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/raids_four_primarch"
+        android:title="@string/the_four_primarch"/>
+    <item
+        android:id="@+id/raids_huanglong_qilin"
+        android:title="@string/huanglong_amp_qilin_hl"/>
+    <item
+        android:id="@+id/raids_shiva"
+        android:title="@string/lvl_120_shiva"/>
+    <item
+        android:id="@+id/raids_europa"
+        android:title="@string/lvl_120_europa" />
+    <item
+        android:id="@+id/raids_alexiel"
+        android:title="@string/lvl_120_godsworn_alexiel" />
+    <item
+        android:id="@+id/raids_grimnir"
+        android:title="@string/lvl_120_grimnir" />
+    <item
+        android:id="@+id/raids_metatron"
+        android:title="@string/lvl_120_metatron" />
+    <item
+        android:id="@+id/raids_avatar"
+        android:title="@string/lvl_120_avatar" />
+    <item
+        android:id="@+id/raids_atum"
+        android:title="@string/lvl_120_atum" />
+    <item
+        android:id="@+id/raids_tefnut"
+        android:title="@string/lvl_120_tefnut" />
+    <item
+        android:id="@+id/raids_bennu"
+        android:title="@string/lvl_120_bennu" />
+    <item
+        android:id="@+id/raids_ra"
+        android:title="@string/lvl_120_ra" />
+    <item
+        android:id="@+id/raids_horus"
+        android:title="@string/lvl_120_horus" />
+    <item
+        android:id="@+id/raids_osiris"
+        android:title="@string/lvl_120_osiris" />
+    <item
+        android:id="@+id/raids_prometheus"
+        android:title="@string/lvl_120_prometheus" />
+    <item
+        android:id="@+id/raids_caong"
+        android:title="@string/lvl_120_ca_ong" />
+    <item
+        android:id="@+id/raids_gilgamesh"
+        android:title="@string/lvl_120_gilgamesh" />
+    <item
+        android:id="@+id/raids_morrigna"
+        android:title="@string/lvl_120_morrigna" />
+    <item
+        android:id="@+id/raids_hector"
+        android:title="@string/lvl_120_hector" />
+    <item
+        android:id="@+id/raids_anubis"
+        android:title="@string/lvl_120_anubis" />
+    <item
+        android:id="@+id/raids_wilnas"
+        android:title="@string/lvl_200_wilnas" />
+    <item
+        android:id="@+id/raids_wamdus"
+        android:title="@string/lvl_200_wamdus" />
+    <item
+        android:id="@+id/raids_galleon"
+        android:title="@string/lvl_200_galleon" />
+    <item
+        android:id="@+id/raids_ewiyar"
+        android:title="@string/lvl_200_ewiyar" />
+    <item
+        android:id="@+id/raids_lu_woh"
+        android:title="@string/lvl_200_lu_woh" />
+    <item
+        android:id="@+id/raids_fediel"
+        android:title="@string/lvl_200_fediel" />
+</menu>

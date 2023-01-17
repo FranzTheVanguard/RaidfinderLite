@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RaidfinderLite</string>
+    <string name="huanglong_amp_qilin_hl">黄龍・黒麒麟HL</string>
+    <string name="the_four_primarch">四大天司ＨＬ</string>
+    <string name="lvl_120_shiva">Lv120 シヴァ</string>
+    <string name="lvl_120_europa">Lv120 エウロペ</string>
+    <string name="lvl_120_godsworn_alexiel">Lv120 ゴッドガード・ブローディア</string>
+    <string name="lvl_120_grimnir">Lv120 グリームニル</string>
+    <string name="lvl_120_metatron">Lv120 メタトロン</string>
+    <string name="lvl_120_avatar">Lv120 アバター</string>
+    <string name="lvl_120_atum">Lv120 アトゥム</string>
+    <string name="lvl_120_tefnut">Lv120 テフヌト</string>
+    <string name="lvl_120_bennu">Lv120 ベンヌ</string>
+    <string name="lvl_120_ra">Lv120 ラー</string>
+    <string name="lvl_120_horus">Lv120 ホルス</string>
+    <string name="lvl_120_osiris">Lv120 オシリス</string>
+    <string name="lvl_120_prometheus">Lv120 プロメテウス</string>
+    <string name="lvl_120_ca_ong">Lv120 カー・オン</string>
+    <string name="lvl_120_gilgamesh">Lv120 ギルガメッシュ</string>
+    <string name="lvl_120_morrigna">Lv120 バイヴカハ</string>
+    <string name="lvl_120_hector">Lv120 ヘクトル</string>
+    <string name="lvl_120_anubis">Lv120 アヌビス</string>
+    <string name="lvl_200_wilnas">Lv200 ウィルナス</string>
+    <string name="lvl_200_wamdus">Lv200 ワムデュス</string>
+    <string name="lvl_200_galleon">Lv200 ガレヲン</string>
+    <string name="lvl_200_ewiyar">Lv200 イーウィヤ</string>
+    <string name="lvl_200_lu_woh">Lv200 ル・オー</string>
+    <string name="lvl_200_fediel">Lv200 フェディエル</string>
+</resources>
